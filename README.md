@@ -2,9 +2,9 @@
 
 This project is a simple fast api CRUD project using database.
 
-Technologies Used:python ,Fast API
-Database : SQLite
+## Technologies Used
 Backend: python, Fast API.
+Database: SQLite
 
 
 #  Project Structure
