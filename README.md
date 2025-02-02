@@ -92,7 +92,7 @@ Redoc UI: http://127.0.0.1:8000/redoc
 ```
 
 ## Project API screen shots
-![Image](https://github.com/user-attachments/assets/d359cc94-614e-4a99-a26e-ae93d9078424)
+![Image](https://github.com/user-attachments/assets/1ba4800d-9cfd-494c-9ded-af4db2081bef)
 
 
 
